@@ -32427,6 +32427,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
+  font-weight: 700;
   margin: -36px 839px 22px 0;
 }
 @media (max-width: 1199px) {
